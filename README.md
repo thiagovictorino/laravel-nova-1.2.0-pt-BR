@@ -1,6 +1,9 @@
 # laravel-nova-1.2.0-pr-BR
 Tradução do Laravel Nova na versão 1.2.0 para o Português Brasileiro
 
+- Sugestão de melhorias são bem vindas.
+- A tradução ainda não está completa, vou fazendo aos poucos ou aceito ajuda
+
 ## Instalação
 1. Clonar este repositório na pasta `resources/lang/vendor/nova` do seu projeto
   ```shell
