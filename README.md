@@ -14,6 +14,6 @@ Tradução do Laravel Nova na versão 1.2.0 para o Português Brasileiro
   ```
 2. Configurar o Framework para utilizar 'pt-BR' como linguagem padrão
   ```
-  // Altere Linha 81 do arquivo config/app.php para:
+  // Altere seguinte linha do arquivo config/app.php para:
   'locale' => 'pt-BR',
   ```
